@@ -9,4 +9,3 @@ export default function Welcome(props)  {
             <h2>Welcome to Newton School.</h2>
         </div>);
     }
-}
